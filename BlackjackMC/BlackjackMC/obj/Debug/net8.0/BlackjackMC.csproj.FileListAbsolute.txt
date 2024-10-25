@@ -1,0 +1,14 @@
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\BlackjackMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\BlackjackMC.AssemblyInfoInputs.cache
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\BlackjackMC.AssemblyInfo.cs
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\BlackjackMC.csproj.CoreCompileInputs.cache
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\bin\Debug\net8.0\BlackjackMC.exe
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\bin\Debug\net8.0\BlackjackMC.deps.json
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\bin\Debug\net8.0\BlackjackMC.runtimeconfig.json
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\bin\Debug\net8.0\BlackjackMC.dll
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\bin\Debug\net8.0\BlackjackMC.pdb
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\BlackjackMC.dll
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\refint\BlackjackMC.dll
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\BlackjackMC.pdb
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\BlackjackMC.genruntimeconfig.cache
+C:\Users\Academy\source\repos\BlackjackMC\BlackjackMC\obj\Debug\net8.0\ref\BlackjackMC.dll
